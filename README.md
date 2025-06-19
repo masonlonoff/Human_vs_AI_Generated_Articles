@@ -13,6 +13,7 @@ I collected trusted news articles using the GDELT API and scraped full content u
 
 This project showcases skills in NLP, dataset generation, feature engineering, explainable ML, and stylistic content analysis which all offer insights into what makes AI writing feel different from human journalism, even when both describe the same real-world events.
 
+##### File Breakdown
 
 Below is a breakdown of each file you will find within the repository:
 1) [Dataset Generation](https://github.com/masonlonoff/Human_vs_AI_Generated_Articles/blob/main/generating_articles.ipynb): This file contains the code for how I created both the human and GPT generated article datasets. It also includes the logic for how I filtered out unsuitable articles.
